@@ -3,7 +3,7 @@
 
 
 ## **Overview**
-This project aims to effectively identify the risks associated with different aircraft by analysing historical aviation accident data and provide insights into the most viable aircraft options based on frequency of accidnets occurrence. Identifying the patterns, trends, and risk factors that influence such accidents, facilitates the determination of the lowest risk venture aircraft for purchase by the company and how viable the operation of the aircrafts would be for commercial and private enterprises. The dataset covers approximately 24,000 aviation accidents worldwide that occurred between 1919 and 2023. Since the company is exploring entry into the aviation sector, it is crucial to understand the historical safety records of different aircraft types, operators, and regions in order to make well-informed decisions.
+This project aims to effectively identify the risks associated with different aircraft by analysing historical aviation accident data and provide insights into the most viable aircraft options based on frequency of accidents occurrence. Identifying the patterns, trends, and risk factors that influence such accidents facilitates the determination of the lowest risk venture aircraft for purchase by the company and how viable the operation of the aircrafts would be for commercial and private enterprises. The dataset covers approximately 24,000 aviation accidents worldwide that occurred between 1919 and 2023. Since the company is exploring entry into the aviation sector, it is crucial to understand the historical safety records of different aircraft types, operators, and regions in order to make well-informed decisions.
  
 
 ## **Business Understanding**
